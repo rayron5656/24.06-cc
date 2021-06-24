@@ -1,0 +1,7 @@
+C:\Users\rayro\source\repos\24.06 class\24.06 class\bin\Debug\24.06 class.exe.config
+C:\Users\rayro\source\repos\24.06 class\24.06 class\bin\Debug\24.06 class.exe
+C:\Users\rayro\source\repos\24.06 class\24.06 class\bin\Debug\24.06 class.pdb
+C:\Users\rayro\source\repos\24.06 class\24.06 class\obj\Debug\24.06 class.csproj.AssemblyReference.cache
+C:\Users\rayro\source\repos\24.06 class\24.06 class\obj\Debug\24.06 class.csproj.CoreCompileInputs.cache
+C:\Users\rayro\source\repos\24.06 class\24.06 class\obj\Debug\24.06 class.exe
+C:\Users\rayro\source\repos\24.06 class\24.06 class\obj\Debug\24.06 class.pdb
